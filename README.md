@@ -1,9 +1,9 @@
-- 👋 Hi, I’m @JonYoni
-- 👀 I’m interested in learning about coding, AI, CyberSecurity
-- 🌱 I’m currently learning python, yaml, AWS Solutions Architecture
-- 💞️ I’m looking to collaborate on anything that would help me learn
-- 📫 How to reach me:
-   
+- 👋 Hi, I’m @JonYoni Cloud Practioner Certified
+- 👀 I’m interested in learning about Cloud Engineering, Coding, AI, CyberSecurity,
+- 🌱 I’m currently learning python, yaml, linux, AWS Solutions Architecture
+- 💞️ I’m looking to collaborate and learn from the Pros in the IT commuinity
+- 📫 How to reach me: jswain9300@gmail
+  
 
 
 <!---
