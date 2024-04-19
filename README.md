@@ -2,7 +2,7 @@
 - 👀 I’m interested in learning about Cloud Engineering, Coding, AI, CyberSecurity,
 - 🌱 I’m currently learning python, yaml, linux, AWS Solutions Architecture
 - 💞️ I’m looking to collaborate and learn from the Pros in the IT commuinity
-- 📫 How to reach me: jswain9300@gmail
+- 📫 How to reach me: kloud.yon9i@gmail.com
   
 
 
