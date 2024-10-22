@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @JonYoni AWS Cloud Certified
-- 👀 I’m interested in learning about Cloud Engineering, Coding, AI, CyberSecurity,
-- 🌱 I’m currently learning python, yaml, linux, AWS Solutions Architecture
-- 💞️ I’m looking to collaborate and learn from the Pros in the IT commuinity
+- 👀  Cloud Engineering, Coding, AI, CyberSecurity,
+- 🌱 I’m proficient in python, yaml, linux, Cloud Architecture
+- 💞️ I’m looking for a role on a team in the IT commuinity, my focous Cloud Admin, DevOps/Cloud Engineer 
 - 📫 How to reach me: kloud.yon9i@gmail.com
   
 
