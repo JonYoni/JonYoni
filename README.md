@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @JonYoni 
 - 👀  Cloud Engineering, Coding, AI, CyberSecurity,
 - 🌱 I’m proficient in python, yaml, linux, Cloud Architecture
-- 💞️ Alsways evolving, here to provide my services to the IT commuinity, my focous is Cloud Sys Admin, DevOps/Cloud Engineer 
+- 💞️ Alsways evolving, here to provide my services to the IT commuinity, my focous is Cloud Sys Admin, DevOps/Cloud Engineering 
 - 📫 How to reach me: j.swainx@outlook.com
 
   
