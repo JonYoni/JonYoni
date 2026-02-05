@@ -2,7 +2,7 @@
 - 👀  Cloud Engineering, Coding, AI, CyberSecurity,
 - 🌱 I’m proficient in python, yaml, linux, Cloud Architecture
 - 💞️ Alsways evolving, here to provide my services to the IT commuinity, my focous is Cloud Sys Admin, DevOps/Cloud Engineering 
-- 📫 How to reach me: j.swainx@outlook.com
+- 📫 How to reach me: jon.cpny@gmail.com
 
   
 
